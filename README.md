@@ -2,8 +2,8 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=insanmustadi37&show_icons=true&theme=radical)
 
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=insanmustadi37&repo=Admin Template&theme=gruvbox)](https://github.com/insanmustadi37/admin-template)
-[![github card](https://github-readme-stats.vercel.app/api/pin/?username=insanmustadi37&repo=Pantau Corona&theme=dracula)](https://github.com/insanmustadi37/pantau-corona)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=insanmustadi37&repo=Admin-Template&theme=gruvbox)](https://github.com/insanmustadi37/admin-template)
+[![github card](https://github-readme-stats.vercel.app/api/pin/?username=insanmustadi37&repo=Pantau-Corona&theme=dracula)](https://github.com/insanmustadi37/pantau-corona)
 ![github toplang](https://github-readme-stats.vercel.app/api/top-langs/?username=insanmustadi37&layout=compact&theme=nightowl)
 
 
