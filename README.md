@@ -1,5 +1,3 @@
-## Follow Me! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="30px"></h2>
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=insanmustadi37&show_icons=true&theme=radical)
 
 [![github card](https://github-readme-stats.vercel.app/api/pin/?username=insanmustadi37&repo=Admin-Template&theme=gruvbox)](https://github.com/insanmustadi37/admin-template)
