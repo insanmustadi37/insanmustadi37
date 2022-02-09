@@ -6,5 +6,5 @@
 
 
 
-<a href="https://www.instagram.com/i.n.s.a.n.m.s" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
+<a href="https://www.instagram.com/beler.yyy" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Instagram"></a>
 <a href="https://www.facebook.com/insan.m.s" target="_blank"><img src="https://img.shields.io/badge/Facebook-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" height="32px" alt="Facebook"></a>
